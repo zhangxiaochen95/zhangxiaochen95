@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhangxiaochen95
-- 👀 I’m interested in photography, drawing and detective fiction
+- 👀 I’m interested in photography 📷, coffee ☕️ and detective fiction
 - 🌱 I’m currently learning optimization/machine learning in wireless communications
 - 💞️ I’m looking to collaborate on GNN, DRL, Optimization theory, etc.
 - 📫 Reach me by email: zhangxiaochen14@nudt.edu.cn if you are interested in my work
